@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Lab2{
+public class Lab2p2{
 
 // Method to compute the total number of elements in the array
 public static int computeTotalElements(int[] dimensions) {
